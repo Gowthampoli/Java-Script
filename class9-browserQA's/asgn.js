@@ -11,7 +11,7 @@ function display3(){
     document.getElementById("4").style.backgroundColor='yellow';
 }
 function display4(){
-    document.getElementById("5").style.backgroundColor='gray';
+    document.getElementById("5").style.backgroundColor='grey';
 }
 function display5(){
     let input=document.getElementById("6");

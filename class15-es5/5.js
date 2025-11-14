@@ -1,4 +1,7 @@
-let pname="marker pen"
+//ES6 features will not work in es5
+
+
+/* let pname="marker pen" 
 
 class product{
     constructor(){
@@ -10,4 +13,4 @@ class product{
 }
  
 //module.exports = pname; //default export
-module.exports={pname,product} //named export
+module.exports={pname,product} //named export */

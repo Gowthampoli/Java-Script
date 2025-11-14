@@ -8,8 +8,6 @@ class product{
         console.log("getting details");
     }
 }
-console.log(pname);
-
  
 //module.exports = pname; //default export
 module.exports={pname,product} //named export

@@ -4,4 +4,3 @@ console.log(pname); */
 let{pname,product}=require('./1')
 new product();
 console.log(pname);
-document.getElementById("pname").innerHTML="pname"
